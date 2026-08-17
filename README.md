@@ -124,5 +124,5 @@ kb-skill/
 ## 🙏 致谢
 
 - Andrej Karpathy — LLM Knowledge Bases 方法论
-- AI 知识库课程 — 方法论启发与落地实践
+- 抖音AI夜校AI知识库课程 — 方法论启发与落地实践
 - Obsidian — 本地知识库管理工具
