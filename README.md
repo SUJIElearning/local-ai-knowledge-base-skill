@@ -1,4 +1,4 @@
-# 本地 AI 协同知识库搭建法
+# 知识库搭建skill
 
 > **人定义，AI 维护** — 把碎片化的工作资料、学习笔记、日常知识变成 AI 可维护的"活的"知识库。
 
@@ -62,8 +62,8 @@
 
 ## 📦 作为 Skill 使用（DSH 用户）
 
-1. 把 `SKILL.md` 放入你的 `~/.dsh/skills/local-ai-knowledge-base/` 目录
-2. 在 DSH 中通过 `skill("local-ai-knowledge-base")` 加载
+1. 把 `SKILL.md` 放入你的 `~/.dsh/skills/kb-skill/` 目录
+2. 在 DSH 中通过 `skill("kb-skill")` 加载
 3. 技能指令会自动注入你的系统提示词
 
 ---
@@ -82,7 +82,7 @@
 ## 🗂️ 项目结构
 
 ```
-local-ai-knowledge-base-skill/
+kb-skill/
 ├── README.md              ← 本文件
 ├── SKILL.md               ← 技能本体（可加载到 AI 平台）
 ├── LICENSE                ← 开源许可证
